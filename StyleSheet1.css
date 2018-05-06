@@ -24,3 +24,13 @@ body {
     padding: 30px 0;
     text-transform: uppercase;
 }
+
+.title.photo{
+    padding-top:20px;
+}
+
+.myphoto{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
