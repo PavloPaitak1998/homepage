@@ -86,7 +86,13 @@ body {
 
 .content.intro{
     line-height:25px;
-    font-size:17px;
+    font-size:17px;    
+}
+
+.content.intro p{
+    line-height:25px;
+    font-size:17px;  
+    margin: 0 10px;  
 }
 
 .web{
