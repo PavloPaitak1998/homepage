@@ -64,3 +64,6 @@ I used a lot of stuff to create it, here are sth that I think can help you:
 codigofacilito](https://www.youtube.com/watch?v=zH3I1DZNovk&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId)
 - also I used flex box, it's very easy and yua can do a little adaptive design [Loftblog](https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU)
 - and if you don't know sth [Google](https://www.google.com) know everything )
+
+### Have fun :)
+“Don’t Let Yesterday Take Up Too Much Of Today.” – Will Rogers
