@@ -77,3 +77,8 @@ body {
     font-size: 15px;
     font-weight: 700;
 }
+
+.content.intro{
+    line-height:25px;
+    font-size:17px;
+}
