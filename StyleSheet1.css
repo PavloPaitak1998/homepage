@@ -15,6 +15,7 @@ body {
     flex: 3;
     margin: 0 40px;
     padding: 30px 0;
+    text-align:justify;
 }
 
 .title {
@@ -134,7 +135,39 @@ body {
     min-width:250px;
     height: 4px;
     margin: 0;
+    
+}
+
+.skill_line.cs{
+    background: linear-gradient(to right, #ffce00 92%, #EBEBEB 8%);
+}
+
+.skill_line.css{
+    background: linear-gradient(to right, #ffce00 80%, #EBEBEB 20%);
+}
+
+.skill_line.html{
+    background: linear-gradient(to right, #ffce00 80%, #EBEBEB 20%);
+}
+
+.skill_line.js{
+    background: linear-gradient(to right, #ffce00 85%, #EBEBEB 15%);
+}
+
+.skill_line.git{
     background: linear-gradient(to right, #ffce00 50%, #EBEBEB 50%);
+}
+
+.skill_line.ph{
+    background: linear-gradient(to right, #ffce00 70%, #EBEBEB 30%);
+}
+
+.skill_line.sql{
+    background: linear-gradient(to right, #ffce00 90%, #EBEBEB 10%);
+}
+
+.skill_line.en{
+    background: linear-gradient(to right, #ffce00 90%, #EBEBEB 10%);
 }
 
 .content.skills {
