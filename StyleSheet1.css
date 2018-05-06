@@ -182,7 +182,7 @@ body {
     background-color: #F9F9F9;
 }
 
-.content.intro, .content.skills,.content.aboutme {
+.content.intro, .content.skills, .content.aboutme {
     background-color: #FDFDFD;
 }
 
@@ -206,9 +206,11 @@ body {
 }
 
 .footer{
-    height: 50px;
+    padding: 10px;
     background-color: #F9F9F9;
     width: 100%;
+    text-align: center;
+
 }
 
 
