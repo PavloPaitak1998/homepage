@@ -5,6 +5,10 @@ body {
     font-size: 15px;
 }
 
+a{
+    text-decoration: none;
+}
+
 .wrapper {
     max-width: 1076px;
     min-width:320px;
