@@ -186,7 +186,12 @@ body {
     background-color: #FDFDFD;
 }
 
-
+.textaboutme{
+    margin: 0 10px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-family: Verdana, sans-serif;
+}
 
 .footer{
     height: 50px;
