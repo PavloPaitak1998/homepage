@@ -34,3 +34,26 @@ body {
     height: 150px;
     border-radius: 100%;
 }
+
+.firstname {
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: #9d9a9a;
+    
+}
+
+.lastname {
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    color: #ffce00;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.job {
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #9d9a9a;
+    line-height: 40px;
+}
