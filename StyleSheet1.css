@@ -134,3 +134,11 @@ body {
     flex-wrap: wrap;
     margin-bottom:20px;
 }
+
+.title.intro, .title.skills {
+    background-color: #F9F9F9;
+}
+
+.content.intro, .content.skills {
+    background-color: #FDFDFD;
+}
