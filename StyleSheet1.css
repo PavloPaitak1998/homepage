@@ -25,6 +25,12 @@ body {
     text-transform: uppercase;
 }
 
+.title_text {
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
 .title.photo{
     padding-top:20px;
 }
