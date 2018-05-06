@@ -57,3 +57,23 @@ body {
     color: #9d9a9a;
     line-height: 40px;
 }
+
+.contactinfo {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.continfo {
+    min-width: 180px;
+}
+
+.continfo p{
+    font-size:12px;
+    line-height:20px;
+}
+
+.contactinfo .inside {
+    font-size: 15px;
+    font-weight: 700;
+}
