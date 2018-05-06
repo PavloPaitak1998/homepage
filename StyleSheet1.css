@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    text-indent: 5px; 
+}
+
+.wrapper {
+    max-width: 1076px;
+    min-width:320px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;   
+}
+
+.content {
+    flex: 3;
+    margin: 0 40px;
+    padding: 30px 0;
+}
+
+.title {
+    text-align: center;
+    flex: 1;
+    background-color: #FBFBFB;
+    padding: 30px 0;
+    text-transform: uppercase;
+}
+
+.title_text {
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.title.photo{
+    padding-top:20px;
+}
+
+.myphoto{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.firstname {
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: #9d9a9a;
+    
+}
+
+.lastname {
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    color: #ffce00;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.job {
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #9d9a9a;
+    line-height: 40px;
+}
+
+.contactinfo {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.continfo {
+    min-width: 180px;
+}
+
+.continfo p{
+    font-size:12px;
+    line-height:20px;
+}
+
+.contactinfo .inside {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.content.intro{
+    line-height:25px;
+    font-size:17px;    
+}
+
+.content.intro p{
+    line-height:25px;
+    font-size:17px;  
+    margin: 0 10px;  
+}
+
+.web{
+	color:#f5c716;
+}
+
+.timelines {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.timeline p{
+    font-size:16px;
+    letter-spacing:0.5px;  
+}
+
+.timeline{
+    max-width:350px;
+    position:relative;
+}
+
+.timeline hr {    
+    width: 10px;
+    height:10px;
+    border:none;
+    background: #ffce00;
+    position:absolute;
+    top:17px;
+    left:-10px;
+    border-radius:100%;
+}
+
+.skill_line {
+  
+    max-width:320px;
+    width:300px;
+    min-width:250px;
+    height: 4px;
+    margin: 0;
+    background: linear-gradient(to right, #ffce00 50%, #EBEBEB 50%);
+}
+
+.content.skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom:20px;
+}
+
+.title.intro, .title.skills {
+    background-color: #F9F9F9;
+}
+
+.content.intro, .content.skills {
+    background-color: #FDFDFD;
+}
+
+
+
+
+@media screen and (max-width:700px) {
+    .wrapper {            
+        flex-direction:column;         
+    }
+
+    .skill_line {
+    width:250px;   
+}
+}
