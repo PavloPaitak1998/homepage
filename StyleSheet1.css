@@ -175,16 +175,18 @@ body {
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin-bottom:20px;
+    
 }
 
-.title.intro, .title.skills {
+.title.intro, .title.skills,.title.aboutme {
     background-color: #F9F9F9;
 }
 
-.content.intro, .content.skills {
+.content.intro, .content.skills,.content.aboutme {
     background-color: #FDFDFD;
 }
+
+
 
 .footer{
     height: 50px;
