@@ -56,14 +56,15 @@ Let's take a pause and be a caveman for a second — or a hacker, if you will �
 
 I used a lot of stuff to create it, here are sth that I think can help you:
 
-- layout of resume [Uptowork](https://uptowork.com/resume-examples) , [My Perfect Resume
+- _**Layout**_ of resume [Uptowork](https://uptowork.com/resume-examples) , [My Perfect Resume
 ](https://www.myperfectresume.com/how-to/) , [resume.com](https://www.resume.com/sample) , [thebalancecareers](https://www.thebalancecareers.com/free-resume-examples-and-writing-tips-2063596)
-- code redactor [Visual Studio Code](https://code.visualstudio.com/) , [Sublime Text](https://www.sublimetext.com/3)
-- very useful program for matching colors [ColorMania](https://colormania.ru.uptodown.com/windows)
-- video lessons about git(easy and interesting "russian" and "english") [Loftblog](https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g) , [
+- _**Code redactor**_ [Visual Studio Code](https://code.visualstudio.com/) , [Sublime Text](https://www.sublimetext.com/3)
+- Very useful program for _**matching colors**_ [ColorMania](https://colormania.ru.uptodown.com/windows)
+- Video lessons _**about git**_(easy and interesting "russian" and "english") [Loftblog](https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g) , [
 codigofacilito](https://www.youtube.com/watch?v=zH3I1DZNovk&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId)
-- also I used flex box, it's very easy and yua can do a little adaptive design [Loftblog](https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU)
-- and if you don't know sth [Google](https://www.google.com) know everything )
+- Also I used _**flex box**_, it's very easy and yua can do a little adaptive design [Loftblog](https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU)
+- Here is awesome _**animation**_ [wowjs](https://wowjs.uk/)
+- And if you **don't know sth** [Google](https://www.google.com) know everything )
 
 ### Have fun :)
 “Don’t Let Yesterday Take Up Too Much Of Today.” – Will Rogers
