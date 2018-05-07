@@ -10,6 +10,8 @@ a{
     text-decoration: none;
 }
 
+
+
 .wrapper {
     max-width: 1076px;
     min-width:320px;
@@ -17,6 +19,7 @@ a{
     display: flex;
     justify-content: space-around;  
     background-color: #FFFFFF; 
+    
 }
 
 .content {
@@ -71,6 +74,10 @@ a{
     letter-spacing: 2px;
     color: #9d9a9a;
     line-height: 40px;
+}
+
+.name{
+    margin-bottom: 70px;
 }
 
 .contactinfo {
